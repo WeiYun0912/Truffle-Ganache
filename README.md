@@ -59,7 +59,7 @@ truffle init
 
 ## Truflle Compile
 
-接著我們準備將智能合約部署到本地區塊鏈，本次教學要部署的智能合約程式碼在這，可以複製起來貼到**contracts**資料夾的 **sol** 檔案，並重新命名為**CryptoCurrencyStore.sol。**
+接著我們準備將智能合約部署到本地區塊鏈，本次教學要部署的[智能合約程式碼在這](https://github.com/WeiYun0912/Truffle-Ganache/blob/main/contracts/CryptoCurrencyStore.sol)，可以複製起來貼到**contracts**資料夾的 **sol** 檔案，並重新命名為**CryptoCurrencyStore.sol。**
 
 ![Image](https://i.imgur.com/SyNLyQB.png)
 
