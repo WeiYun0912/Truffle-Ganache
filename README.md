@@ -1,5 +1,7 @@
 # Truffle Ganache 使用教學
 
+[影片連結](https://www.youtube.com/watch?v=Z7CeH5srgdo)
+
 今天這篇是要來教以太坊區塊鏈的工具 Truffle 和 Ganache，Truffle 可以幫助我們部署與測試智能合約，Ganache 則是可以幫助我們迅速架設本地端的區塊鏈網路環境。
 
 本篇的 Ganache 是使用圖形化的介面來介紹，可以在[官方下載](https://trufflesuite.com/ganache/)。
